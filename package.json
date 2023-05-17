@@ -1,0 +1,17 @@
+{
+  "name": "@flla/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal prettier config",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "index.json"
+  ],
+  "main": "index.json",
+  "author": {
+    "name": "falla-vall",
+    "url": "https://flla.my.id"
+  },
+  "license": "MIT"
+}
